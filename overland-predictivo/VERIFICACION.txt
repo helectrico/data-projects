@@ -1,0 +1,2 @@
+Verificado: umbrales exactos 16/20; causalidad de features; etiquetas de futuro; purga temporal; equivalencia de inferencia sin etiquetas; rechazo de datos con intervalos faltantes.
+Notebook validado estructuralmente; contiene exploración de resultados y sección de reentrenamiento opcional.

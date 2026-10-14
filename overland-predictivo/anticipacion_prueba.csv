@@ -1,0 +1,6 @@
+evento_id,timestamp_trip,patron,anticipacion_ml_h,anticipacion_warning_h,ganancia_ml_h
+26,2026-09-04T13:00:00+00:00,gradual,7.0,14.0,-7.0
+27,2026-09-10T06:00:00+00:00,gradual,3.0,23.0,-20.0
+28,2026-09-16T18:00:00+00:00,gradual,24.0,24.0,0.0
+29,2026-09-22T18:00:00+00:00,gradual,22.0,15.0,7.0
+30,2026-09-28T07:00:00+00:00,repentina,,,

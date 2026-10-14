@@ -1,0 +1,55 @@
+{
+  "seed": 42,
+  "horizonte_h": 24,
+  "frecuencia_min": 60,
+  "umbral_ml": 0.55,
+  "persistencia_muestras": 2,
+  "filas_historico": 4392,
+  "lecturas_sensores": 26352,
+  "detenciones_totales": 30,
+  "filas_train_val_test": [
+    2169,
+    533,
+    502
+  ],
+  "ml_prueba": {
+    "eventos": 5,
+    "eventos_detectados": 4,
+    "recall_eventos": 0.8,
+    "anticipacion_mediana_h": 14.5,
+    "falsos_episodios": 1,
+    "episodios_alerta": 4,
+    "horas_en_alerta": 70.0
+  },
+  "warning_16_prueba": {
+    "eventos": 5,
+    "eventos_detectados": 4,
+    "recall_eventos": 0.8,
+    "anticipacion_mediana_h": 19.0,
+    "falsos_episodios": 0,
+    "episodios_alerta": 6,
+    "horas_en_alerta": 72.0
+  },
+  "lineal_prueba": {
+    "eventos": 5,
+    "eventos_detectados": 4,
+    "recall_eventos": 0.8,
+    "anticipacion_mediana_h": 18.0,
+    "falsos_episodios": 5,
+    "episodios_alerta": 9,
+    "horas_en_alerta": 83.0
+  },
+  "metricas_horarias_prueba": {
+    "precision": 0.8,
+    "recall": 0.4666666666666667,
+    "average_precision": 0.762883574806141,
+    "prevalencia": 0.23904382470119523,
+    "matriz_confusion_TN_FP_FN_TP": [
+      368,
+      14,
+      64,
+      56
+    ]
+  },
+  "modelo_sklearn": "1.8.0"
+}

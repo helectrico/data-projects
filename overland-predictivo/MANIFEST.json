@@ -1,0 +1,94 @@
+{
+  ".gitignore": {
+    "bytes": 92,
+    "sha256": "ef0a86d4a3fa45413a62b26cc8d3b6e5bc7eb17599ac89d8b660598408b9b9b8"
+  },
+  "INFORME.md": {
+    "bytes": 6633,
+    "sha256": "f85f7dc66bbf5fc34c15fbaef4705f676e32e0ed3c393a1d3288910d767c4230"
+  },
+  "README.md": {
+    "bytes": 2340,
+    "sha256": "afea96e6af8570961019e75e7b75682f7e2467018d33353455ff256fd14dd9e4"
+  },
+  "VERIFICACION.txt": {
+    "bytes": 294,
+    "sha256": "e7ffaf0b9434ae8e6a4937963e1d35a18feacac9dd86e9881022f77afe33cc72"
+  },
+  "ajuste_umbral_validacion.csv": {
+    "bytes": 567,
+    "sha256": "8cde08f13a9d4d833ba183708bde4d8bfe191ec3fa8db435e72cc2ffb13b1023"
+  },
+  "anticipacion_prueba.csv": {
+    "bytes": 334,
+    "sha256": "ae2d5b96c04b99f31c90243982fd78324568be371eccba275c04642f7f7f869a"
+  },
+  "evento_26.png": {
+    "bytes": 143112,
+    "sha256": "79340cc05dabe06530cc10191dc610cd731d83c5b5c5591649ded9bc35e50e6c"
+  },
+  "evento_27.png": {
+    "bytes": 145519,
+    "sha256": "1badc71f5fe54bd9d0d7c73e3ee8d792802ac36543ce00d6d7f9659f7709aa2a"
+  },
+  "evento_28.png": {
+    "bytes": 149555,
+    "sha256": "072f5eddcf788926b1c0a1925d0448a76e204c5d73a69299f1e9aa9467e6f2dd"
+  },
+  "evento_29.png": {
+    "bytes": 143546,
+    "sha256": "9831410d831f28eb44beb8651adf6ba5123cc65fb3bf6f79be510bc3bf100b7b"
+  },
+  "evento_30.png": {
+    "bytes": 136352,
+    "sha256": "642dffb02048476f64b1b0a0336eb550c11f796e19ce6a39b46b78cd418da8a5"
+  },
+  "eventos_simulados.csv": {
+    "bytes": 2456,
+    "sha256": "cbc688f2972ac2f2552cdf5c942e6789c8627780f10e15086d6a58901f953279"
+  },
+  "exploracion.ipynb": {
+    "bytes": 4710,
+    "sha256": "53ad894fc65b367592f75343bb0f9f43837faa409ab12830142e915b88a653b0"
+  },
+  "historico.png": {
+    "bytes": 401900,
+    "sha256": "b38ef1825f6612d7cac78c024d63e9699fc0d51a4e34fef3c95a2cd4d06cdc97"
+  },
+  "historico_6_meses.csv": {
+    "bytes": 595334,
+    "sha256": "a7e61b84817c25ee3e84b37580841663e0d987ab7d05dac222e87791315ee42b"
+  },
+  "importancia_variables.csv": {
+    "bytes": 4547,
+    "sha256": "8d5b8864e9615db733ac472fce0f71d23a7720d7200534acd9ef484bf868b32f"
+  },
+  "informe_visual.html": {
+    "bytes": 1498346,
+    "sha256": "f6baa9a98c83e9df4c6573f0b9c7c4610dcd2f50dd6e5c91680497d43973c38f"
+  },
+  "metricas.json": {
+    "bytes": 1202,
+    "sha256": "f9b7042e63dcdc43c5106f6d2df45fde05d6f892355dc654dc998cbb89a07125"
+  },
+  "modelo.joblib": {
+    "bytes": 1223313,
+    "sha256": "644a1227557ca7d410804130ccef63f091668e18f3b798c186694190453a5440"
+  },
+  "overland.py": {
+    "bytes": 24181,
+    "sha256": "49ef508c6f373fa4c554ed3356d24bfabcae0a8ce58171fbe3f34c49304d5f63"
+  },
+  "predecir.py": {
+    "bytes": 2979,
+    "sha256": "d70fc51f2e3af34aac99f3cd0c999a2c4bacfdf0ae4d861b611ff731e4b17e8f"
+  },
+  "predicciones_prueba.csv": {
+    "bytes": 37767,
+    "sha256": "0bee987665aaa850b64ce28f82c61970244fa0cdaecc93d174d3f66f84375526"
+  },
+  "requirements.txt": {
+    "bytes": 80,
+    "sha256": "f89bde2245e7db91bc311512fe7a7fe54ebd8cdc8b3c8024f764a8e56e1b0989"
+  }
+}
